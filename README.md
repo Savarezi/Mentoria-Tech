@@ -18,7 +18,7 @@ Bem-vindo(a) ao repositório do **Mentoria Tech**, uma solução inteligente e a
 O **Mentoria Tech** é um assistente de carreira (chatbot) projetado para coletar dados, analisar competências comportamentais e técnicas, e gerar recomendações personalizadas. A ideia central é atuar como um mentor digital que utiliza lógica de dados para estruturar o futuro profissional do usuário.
 
 ## 🛠️ Tecnologias e Ferramentas
-*   **Fluxo de Automação:** Estruturado no [Tybot] para criação de jornada de usuário.
+*   **Fluxo de Automação:** Estruturado no typebot para criação de jornada de usuário.
 *   **Inteligência Artificial:** Processamento de dados v(integrado para análise estratégica).
 *   **Metodologias:** Foco em qualidade, processos, análise de dados e segurança da informação.
 *   **Design de Experiência:** Focado em tom humanizado, empático e estratégico.
