@@ -36,6 +36,9 @@ O **Mentoria Tech** é um assistente de carreira (chatbot) projetado para coleta
     *   **Validação:** Reconhecimento da trajetória atual.
     *   **Análise Crítica:** Conexão entre o perfil técnico e o cargo desejado.
     *   **Plano de Ação:** 3 passos práticos para evolução imediata.
+  
+      <img width="578" height="618" alt="image" src="https://github.com/user-attachments/assets/c381db8b-37de-4382-8b1d-31c566a6bfb4" />
+
 
 ## 👩‍💻 Desenvolvedora
 Projeto desenvolvido por **Patricia de Oliveira Alves**.
